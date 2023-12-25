@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Indorkar</h1>
 <h3 align="center">A passionate Data Scientist and Data Analyst from India</h3>
 
-<img align ="right" alt="coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2hbGkRENEEDjK6hr-56Vb1&ust=1703567902853000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjCpZXrqYMDFQAAAAAdAAAAABAD">
+<img align ="right" alt="coding" width="300" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2hbGkRENEEDjK6hr-56Vb1&ust=1703567902853000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjCpZXrqYMDFQAAAAAdAAAAABAD](https://www.google.com/search?q=data+science+gif&tbm=isch&ved=2ahUKEwipkPjM66mDAxWfV2wGHYoTCLYQ2-cCegQIABAA&oq=data+science+gif&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgYIABAFEB4yBggAEAgQHjIHCAAQgAQQGDoECCMQJzoGCAAQBxAeOgcIIxDqAhAnOgoIABCABBCKBRBDOggIABCABBCxAzoNCAAQgAQQigUQQxCxA1CrCFiYSGCqSmgBcAB4BIABlAKIAcYekgEGMC4xNi42mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=IRGJZel7n6-x4w-Kp6CwCw&bih=695&biw=1519&rlz=1C1CHZN_enIN1042IN1042&hl=en#imgrc=ViEclW13GTs_-M)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitindorkar27&label=Profile%20views&color=0e75b6&style=flat" alt="ankitindorkar27" /> </p>
 
