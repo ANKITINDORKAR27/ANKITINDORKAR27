@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Voice Conversion Project - where I aim to convert recorded audio to Shahrukh Khan's voice**
+- 🔭 I’m currently working on **Object Detection and tracking using yolov8 by ultralytics**
 
-- 🌱 I’m currently learning **Librosa Library**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ANKITINDORKAR27?tab=repositories](https://github.com/ANKITINDORKAR27?tab=repositories)
 
