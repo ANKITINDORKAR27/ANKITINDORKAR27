@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Ankit.Indorkar2789@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hDUokdnJJC3KQif2pUuB67GVU4GSdHgR/view?usp=drive_link](https://drive.google.com/file/d/1hDUokdnJJC3KQif2pUuB67GVU4GSdHgR/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hDUokdnJJC3KQif2pUuB67GVU4GSdHgR/view?usp=drive_link](https://drive.google.com/file/d/1pv-z3-cRHmuzF0_oBQ7EXScgHS0I9bHm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
